@@ -10,8 +10,8 @@ Resource          sources/Resource.robot
 *** Variables ***
 ${URL}            https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1532399553&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d906c4044-c024-8a5d-35da-910f86095132&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015
 ${ExcelPath}      ${CURDIR}\\Test Data.xls
-${Username}       tubtim_kuph@hotmail.com
-${Password}       0895343487Gg
+${Username}       E-mail
+${Password}       password
 
 *** Test Cases ***
 Go to Hotmail
